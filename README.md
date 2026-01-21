@@ -22,4 +22,4 @@ Frontend: HTML5, CSS3, Bootstrap
 
 Database: SQLite / PostgreSQL
 
-Tools: Git, Django Admin
+Tools: Git, Django
